@@ -1,2 +1,2 @@
-43.132.80.121:443#EdgeOne-Mobile-93ms
-43.159.85.181:443#EdgeOne-Mobile-97ms
+43.175.16.200:443#EdgeOne-Mobile-84ms
+101.33.19.162:443#EdgeOne-Mobile-90ms
